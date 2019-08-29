@@ -1,2 +1,0 @@
-# Ted.github.io
-Bblog
